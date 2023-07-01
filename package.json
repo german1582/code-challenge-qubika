@@ -1,0 +1,15 @@
+{
+  "name": "challenge-qubika",
+  "version": "1.0.0",
+  "description": "Code challenge for Qubika",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "./node_modules/.bin/cypress open --browser chrome --e2e"
+  },
+  "author": "German Larcher",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}

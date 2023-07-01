@@ -1,0 +1,4 @@
+- La ejecución se levanta con el script optimizado "cypress". Es decir, debe ejecutarse la línea de comandos: npm run cypress.
+- Se usa el POM: Page Object Model a fin de contar con un framework que incluya mejores prácticas y de ordenar el código de una manera más eficiente.
+- No se usa la búsqueda "teting" ya que no produce el resultado esperado, en su lugar se hace la búsqueda de "qa teting".
+- challenge.spec.cy.js es el archivo en donde están los test con los comentarios que indican cada punto requerido en el PDF de la Prueba técnica.
